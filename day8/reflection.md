@@ -1,0 +1,7 @@
+# Course Reflection
+
+The most difficult concept in this course was understanding how to design a system that remains correct when many users make requests at the same time. At first, I mainly thought about making an application fast by adding servers and using a cache. However, I learned that these techniques alone cannot prevent problems such as two people buying the same seat. I overcame this challenge by reviewing the examples, answering the course questions and applying concepts such as database transactions, conditional updates, unique constraints and caching to the TicketHub design.
+
+The part of my capstone I would improve is the explanation of the technical decisions and how they address real user problems. I would make the architecture easier to follow, justify my technology choices more clearly and explain the limitations of the solution. I would also use feedback from reviewers to identify the areas that need more attention instead of assuming that a working prototype is automatically a complete solution.
+
+Next, I want to learn more about backend development, database transactions, API security and cloud deployment. I would also like to practise load testing so that I can measure how an application behaves under heavy traffic rather than relying only on estimates. These skills will help me build applications that are not only functional but also reliable, secure and scalable.
